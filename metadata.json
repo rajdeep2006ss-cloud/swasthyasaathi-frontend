@@ -1,0 +1,6 @@
+{
+  "name": "SwasthyaSaathi AI",
+  "description": "Futuristic, clinical intelligence frontend companion with ABDM/ABHA integration, AI triage, doctor prep dossiers, and emergency SOS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
